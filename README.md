@@ -1,2 +1,2 @@
 # JupyterHw1
-Patika Python proje1
+Patika.dev Python modülü ödevi 
