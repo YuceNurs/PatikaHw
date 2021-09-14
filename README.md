@@ -1,2 +1,1 @@
-# JupyterHw1
-Patika.dev Python modülü ödevi 
+# Veri Bilimi Patikası Ödevleri
