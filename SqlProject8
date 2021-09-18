@@ -1,0 +1,12 @@
+CREATE TABLE employee(
+id SERIAL PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+email VARCHAR(100) NOT NULL,
+birthday DATE
+);
+
+UPDATE employee
+SET first_name='Vladimir' ,email='nobokovis@gmail.com', birthday='1988-02-11'
+WHERE id= 5;
+DELETE FROM employee
+WHERE id= 5;
